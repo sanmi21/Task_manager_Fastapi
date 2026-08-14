@@ -16,6 +16,7 @@ A high-performance, asynchronous RESTful API built with **Python**, **FastAPI**,
 
 ## Project Structure
 
+```text
 task_api/
 ├── app/
 │   ├── database.py       #SQLAlchemy engine & session dependency

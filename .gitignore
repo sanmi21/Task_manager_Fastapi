@@ -1,0 +1,27 @@
+# Secret Keys & Credentials
+.env
+
+# Virtual Environment
+venv/
+env/
+
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Database Files
+*.db
+*.sqlite3
+
+# Python Bytecode & Cache
+__pycache__/
+*.pyc
+
+# IDE Settings
+.vscode/
+.idea/
+
+# OS Metadata
+.DS_Store
+Thumbs.db
